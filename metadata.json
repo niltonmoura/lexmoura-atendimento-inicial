@@ -1,0 +1,5 @@
+{
+  "name": "LexMoura Advocacia - Sistema de Gestão",
+  "description": "Um sistema de gestão jurídica para automação de atendimentos, criação de pastas no Google Drive e geração de documentos a partir de templates.",
+  "requestFramePermissions": []
+}
